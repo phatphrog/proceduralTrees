@@ -6,8 +6,6 @@ namespace Marcel.TreeGenerator
     public class LeafGenerator : MonoBehaviour {
 
         public List<GameObject> leaves;
-        private static string leafMaterialsPath;
-        private static int leafMaterialIndex;
         private static Material leafMat;
 
         //create a leaf at a specific position on the tree

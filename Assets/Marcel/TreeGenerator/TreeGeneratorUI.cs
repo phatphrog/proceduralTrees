@@ -52,10 +52,6 @@ namespace Marcel.TreeGenerator.UI
         private const float minBranchProb = 0.065f;
         private const float maxBranchProb = 0.25f;
 
-        //material paths
-        private static string barkMaterialsPath;
-        private static string grassMaterialsPath;
-
         //create initial tree and initialise the UI buttons and sliders
         private void Awake()
         {
