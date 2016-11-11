@@ -14,13 +14,13 @@ Platform assembly: C:\Users\Marcel\Documents\unity\proceduralTree\Build\MarcelTr
 Loading C:\Users\Marcel\Documents\unity\proceduralTree\Build\MarcelTreeGen_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Marcel\Documents\unity\proceduralTree\Build\MarcelTreeGen_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Marcel\Documents\unity\proceduralTree\Build\MarcelTreeGen_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
+- Completed reload, in  0.054 seconds
 Platform assembly: C:\Users\Marcel\Documents\unity\proceduralTree\Build\MarcelTreeGen_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Marcel\Documents\unity\proceduralTree\Build\MarcelTreeGen_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x1668 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.863825 ms
+UnloadTime: 0.595697 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 214 -> priority: 1 
+  Thread -> id: 330 -> priority: 1 

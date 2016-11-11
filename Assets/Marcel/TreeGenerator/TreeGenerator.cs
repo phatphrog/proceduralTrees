@@ -6,7 +6,7 @@ namespace Marcel.TreeGenerator
     public class TreeGenerator : MonoBehaviour
     {
         //tree parameters
-        public int seed; //random seed on which the procedural tree generation is based
+        public int seed = 0; //random seed on which the procedural tree generation is based
         public int maxNumVertices = 65000; //maximum vertices making up the tree mesh
         public int numSides = 16; //number of sides for each branch in the tree
         public float trunkRadius = 2f; //the radius of the tree trunk (in meters)
@@ -172,7 +172,6 @@ namespace Marcel.TreeGenerator
                     leaves.GrowLeaf(position, this);
                     currentLeafCount++;
                 }
-               
 
                 return; 
             }
