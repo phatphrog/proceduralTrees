@@ -34,7 +34,6 @@ namespace Marcel.TreeGenerator
             }
             else //otherwise we move existing leaves to the ends of the branches of the new tree being generated
             {
-               
                 for (int i = 0; i < leaves.Count; i++)
                 {
                     if(leaves[i].activeSelf == false)
